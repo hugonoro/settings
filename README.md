@@ -1,2 +1,0 @@
-# settings
-Webstorm settings repository
