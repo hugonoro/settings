@@ -12,5 +12,6 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="userId" value="-101faccc:163f43fc2f3:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
