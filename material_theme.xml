@@ -11,11 +11,14 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="416a9b" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="ef9d9cb:1668e68c4f4:-8000" />
     <option name="version" value="7.5.1" />
+    <option name="expUIEnabled" value="true" />
     <option name="stripedToolWindowsEnabled" value="true" />
   </component>
 </application>
